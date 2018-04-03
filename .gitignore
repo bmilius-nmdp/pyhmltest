@@ -94,3 +94,7 @@ out.txt
 
 # swap files
 .swp
+
+# hml files
+.HML
+.hml
