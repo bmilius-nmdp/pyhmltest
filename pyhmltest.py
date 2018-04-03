@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""
+pyhmltest.py
+plyaing with the pyHML package
+"""
+
 
 import pyhml
 
