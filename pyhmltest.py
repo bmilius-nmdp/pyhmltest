@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 pyhmltest.py
-plyaing with the pyHML package
+playing with the pyHML package
 """
 
 
