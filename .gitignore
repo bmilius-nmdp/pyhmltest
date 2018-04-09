@@ -91,10 +91,13 @@ ENV/
 
 # output files
 out.txt
+outfiles/
+output/
 
 # swap files
 .swp
 
 # hml files
+hml/
 .HML
 .hml

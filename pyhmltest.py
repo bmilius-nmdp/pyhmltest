@@ -12,7 +12,8 @@ def main():
     """
     the main event
     """
-    hml_file = 'C1PAC092116LRRABC_2016-09-28-111420.HML'
+    # hml_file = 'hml/C1PAC092116LRRABC_2016-09-28-111420.HML'
+    hml_file = 'hml/C1PAC092116LRRABC.HML'
     hmlparser = pyhml.HmlParser()
     hml = hmlparser.parse(hml_file)
     # hml_df = pyhml.toDF(hml)
